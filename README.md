@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Kotuu3
-- 👀 I’m interested in Gaming and learning new things 
-- 🌱 I’m currently learning Python/c++
-- 📫 How to reach me:
+• Hello! my name is Maciej im 17 
 
-- ✉ Discord: Kotuu3 ©#2225
-- 👌 Reddit: EmpTy504
+• I live in Warsaw(Poland) 
 
+• Im IT and electronics enthusiast i really like to work on AVR boards
 
-If you want to dm me feel free to do it ;)
+• My main language is Python and HTML
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kotuu3&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotuu3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
