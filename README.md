@@ -1,4 +1,4 @@
-<h1 align="center">Hi :3, I'm Kotuu3!</h1>
+<h1 align="center">Hi, I'm Kotuu3!</h1>
 
 
 
